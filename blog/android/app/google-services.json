@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046799426608",
+    "firebase_url": "https://fir-deba0.firebaseio.com",
+    "project_id": "fir-deba0",
+    "storage_bucket": "fir-deba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046799426608:android:a02bb8b78faca5c5e8f9f5",
+        "android_client_info": {
+          "package_name": "com.app.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046799426608-67bchf96bipr6qojq0jl6i0qveb4jg68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGK-RuP01953ZAuXBL4Uv-so10u5u3Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046799426608-67bchf96bipr6qojq0jl6i0qveb4jg68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
